@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Project in react
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Yael Greenberg
+Libby Mark
+Rivky Fisher
 
 ## Available Scripts
 
